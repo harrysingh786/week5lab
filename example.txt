@@ -1,0 +1,1 @@
+ your triangle has three sides width 70 , height 50, breadth are 86.0233
